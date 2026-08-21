@@ -3,7 +3,7 @@ layout: page
 title: Polycentric Urban & Regional Development
 description: Understanding the spatial organization, economic performance, and development of polycentric urban regions
 importance: 1
-category: research
+category: work
 ---
 
 My research examines how the spatial organization of cities shapes urban and regional development, with a particular focus on **polycentric urban regions**. I am interested in how multiple cities within a region interact, how morphological and functional forms of polycentricity can be conceptualized and measured, and how these spatial structures influence regional economic performance.
