@@ -14,7 +14,7 @@ cv:
   
   sections:
 
-    Academic Positions:
+    Experience:
       - company: KU Leuven
         position: Postdoctoral Researcher
         location: Leuven, Belgium
@@ -52,7 +52,7 @@ cv:
         start_date: 2013
         end_date: 2017
 
-    Research Interests:
+    Interests:
       - name: Urban and Regional Development
         icon: fa-solid fa-city
         keywords: "Polycentric urban regions, urban systems, regional economic development, spatial structure"
@@ -65,7 +65,7 @@ cv:
         icon: fa-solid fa-chart-network
         keywords: "Spatial econometrics, network analysis, GIS, spatial big data, bibliometrics, machine learning"
 
-    Selected Publications:
+    Publications:
       - title: "Does urban polycentricity contribute to regional economic growth? Empirical evidence from a panel of Chinese urban regions"
         authors:
           - Yuting Yang
@@ -117,7 +117,7 @@ cv:
         publisher: Regional Studies
         releaseDate: 2026
 
-    Research Projects:
+    Projects:
       - name: Polycentric Urban Regions and Regional Development
         summary: Research on how morphological and functional polycentricity shape regional economic performance, environmental sustainability, and technological development.
         start_date: 2020
