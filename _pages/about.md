@@ -13,7 +13,7 @@ profile:
     <p>KU Leuven</p>
     <p>Leuven, Belgium</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: True # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
