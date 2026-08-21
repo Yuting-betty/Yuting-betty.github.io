@@ -3,7 +3,7 @@ layout: page
 title: Intercity Networks, Innovation & Knowledge Flows
 description: Examining how relations between cities shape innovation, cooperation, competition, and knowledge circulation
 importance: 2
-category: research
+category: work
 ---
 
 A second strand of my research focuses on **intercity networks and relational urban development**. Rather than treating cities as isolated territorial units, I examine how flows and relationships between cities shape their economic and innovative development.
