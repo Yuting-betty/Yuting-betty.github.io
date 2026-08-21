@@ -3,7 +3,7 @@ layout: page
 title: Spatial & Computational Urban Research
 description: Combining spatial econometrics, network analysis, and computational methods to study cities and regions
 importance: 3
-category: research
+category: work
 ---
 
 My research adopts a quantitative and computational approach to urban and regional questions. I combine **spatial econometrics, network analysis, large-scale spatial data, bibliometric analysis, and computational methods** to investigate complex spatial and relational processes.
